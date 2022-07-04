@@ -14,6 +14,10 @@ public class groupdemoclass {
 	public void login()
 	{
 		System.out.println("oh");
+		
+		System.out.println("shyam prasad reddy");
+		System.out.println("shyam prasad reddy");
+		System.out.println("shyam prasad reddy");
 	}
 	
 	@Test(priority = 1,groups="regression")

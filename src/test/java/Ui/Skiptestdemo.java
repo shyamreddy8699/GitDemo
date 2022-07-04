@@ -8,6 +8,8 @@ public class Skiptestdemo {
 	public void test1()
 	{
 		System.out.println("skipping this test");
+		System.out.println("shyam prasad reddy");System.out.println("shyam prasad reddy");
+		
 	}
 
 }
