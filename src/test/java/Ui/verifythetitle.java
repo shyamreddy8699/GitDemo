@@ -32,7 +32,10 @@ public class verifythetitle {
 	
 	driver.close();
 		
-		
+
+	driver.get("https://www.ebay.com/");
+
+	driver.get("https://www.ebay.com/");
 	}
 
 }
